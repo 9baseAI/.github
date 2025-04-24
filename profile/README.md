@@ -1,4 +1,4 @@
-# 9BASE
+# 9base
 
 *Frontier generative intelligence and autonomous agents catalyzing a paradigm shift in neuroscience and brain-centric medicine.*
 
